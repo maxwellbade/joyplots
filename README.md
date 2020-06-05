@@ -2,7 +2,7 @@
 
 Joyplots/Ridgeline plots with JoyPy in Python
 
-![joyplot plot](https://github.com/supercoolgetsallthegirlsmax/joyplots/blob/master/joyplot1.png width="200" height="200")
+<img src="https://github.com/supercoolgetsallthegirlsmax/joyplots/blob/master/joyplot1.png" width=600 height=600 align=center>
 
 WHAT IS A JOYPLOT
 
@@ -74,8 +74,11 @@ IMAGES
 
 There's too many ways you could create the plot; it could have bins, or be transparent or have background colors, or have less overlap, or be thinner etc. etc. Here's just a few I was playing with this morning.
 
+
 CONCLUSION
 
 In any case, these always make for good conversation. Mostly starting with "what kind of plot is this?!"
 
 Cheers!
+
+<img src="https://github.com/supercoolgetsallthegirlsmax/joyplots/blob/master/joyplot2.png" width=400 height=400 align=right><img src="https://github.com/supercoolgetsallthegirlsmax/joyplots/blob/master/joyplot3.png" width=400 height=400 align=left>
