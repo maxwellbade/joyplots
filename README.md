@@ -2,15 +2,15 @@
 
 Joyplots/Ridgeline plots with JoyPy in Python
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/supercoolgetsallthegirlsmax/joyplots/blob/master/joyplot1.png | width="200" height="400" )
 
 WHAT IS A JOYPLOT
 
-Joypy is the python library and joyplot() is the function to plot the figure. There are a few other libraries that have these types of plots: Seaborn, Bokeh I think maybe plotly does too, to name a few. I don't know why, but I've always thought these were such cool visualizations.
+```Joypy``` is the python library and ```joyplot()``` is the function to plot the figure. There are a few other libraries that have these types of plots: ```Seaborn```, ```Bokeh``` I think maybe ```plotly``` does too, to name a few. I don't know why, but I've always thought these were such cool visualizations.
 
 HOW WOULD YOU USE IT?
 
-It's basically a violin plot put horizontally. You could use it a million different ways. Anytime you had multiple histograms you wanted to see in a single plot. I always used it to show fraud rates for rules (xaxis = fraud rate and yaxis = individual rules). There's a bunch of ways to display this type of information though. This is just a good looking one imo.
+It's basically a violin plot put horizontally. You could use it a million different ways. Anytime you had multiple histograms you wanted to see in a single plot. I always used it to show fraud rates for rules (```xaxis``` = fraud rate and ```yaxis``` = individual rules). There's a bunch of ways to display this type of information though. This is just a good looking one imo.
 
 CODE FOR THE FIRST IMAGE
 
