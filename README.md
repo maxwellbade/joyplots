@@ -2,7 +2,7 @@
 
 Joyplots/Ridgeline plots with JoyPy in Python
 
-![alt text](https://github.com/supercoolgetsallthegirlsmax/joyplots/blob/master/joyplot1.png)
+![joyplot plot](https://github.com/supercoolgetsallthegirlsmax/joyplots/blob/master/joyplot1.png width="200" height="200")
 
 WHAT IS A JOYPLOT
 
